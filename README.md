@@ -8,11 +8,11 @@ So the newdatedate function is what they want.
 # usage
 You need to import newdatedate.js/newdatedate.min.js in your html file. (See Demo.html)
 
-Then you just call the function like ```$("#name").newdatedate()```.
+Then you just call the function like ```$("#id").newdatedate()```.
 
-If you want to use the range date, you just need to add the parameter ```$("#name").newdatedate("range")``` or leave the parameter null.
+If you want to use the range date, you just need to add the parameter ```$("#id").newdatedate("range")``` or leave the parameter null.
 
-You can use the single date like ```$("#name").newdatedate("single")```.
+You can use the single date like ```$("#id").newdatedate("single")```.
 
 The phone number function is ```newphone()```.
 
